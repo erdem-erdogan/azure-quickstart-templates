@@ -9,6 +9,6 @@
 
 This template creates ARM based Windows VM, Recovery Services Vault and Backup Policy and protects newly created IaaSVM.
 
-To protect existing VMs in Recovery Services Vault, please use this template: [Backup ARM and Classic IaaSVMs to Recovery Services Vault] (https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-backup-iaasvm)
+To protect existing VMs in Recovery Services Vault, please use this template: [Backup ARM and Classic IaaSVMs to Recovery Services Vault] (https://github.com/Azure/azure-quickstart-templates/tree/master/101-recovery-services-backup-vm)
 
 For more information, Visit [Back up ARM VMs to a Recovery Services vault] (https://azure.microsoft.com/en-us/documentation/articles/backup-azure-vms-first-look-arm/)
