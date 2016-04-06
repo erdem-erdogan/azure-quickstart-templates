@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Create and protect ARM IaaSVM in Recovery Services Vault",
+  "description": "This template creates simple windows vm, recovery services vault and weekly backup policy and protect newly created IaaS VM.",
+  "summary": "This template creates and protects IaaSVM in Recovery Services Vault",
+  "githubUsername": "nilaydshah",
+  "dateUpdated": "2016-04-06"
+}
